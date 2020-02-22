@@ -1,0 +1,17 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "Contrary to popular belief, Lorem Ipsum is not simply random text.\r  It has roots in a piece of classical Latin literature from 45 BC,\r   making it over 2000 years old. Richard McClintock,\r   a Latin professor at Hampden-Sydney College in Virginia,\r   looked up one of the more obscure Latin words, consectetur,\r   from a Lorem Ipsum passage, and going through the cites of\r   the word in classical literature, discovered the undoubtable source.\r    Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maddy",
+  "license": "ISC"
+}
